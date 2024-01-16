@@ -1,4 +1,10 @@
 Rails.application.routes.draw do
+  get 'payments/new'
+  get 'payments/create'
+  get 'categories/index'
+  get 'categories/show'
+  get 'categories/new'
+  get 'categories/create'
   get 'splash/index'
   devise_for :users
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
