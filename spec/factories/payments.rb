@@ -1,7 +1,7 @@
 FactoryBot.define do
   factory :payment do
-    name { "MyString" }
-    amount { 1 }
-    author { nil }
+    sequence(:name) { |n| "Payment #{n}" }
+    amount { 100 }
+    association :author, factory: :user
   end
 end
