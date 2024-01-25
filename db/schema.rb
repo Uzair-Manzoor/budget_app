@@ -16,7 +16,7 @@ ActiveRecord::Schema[7.1].define(version: 2024_01_16_175709) do
 
   create_table "categories", force: :cascade do |t|
     t.string "name"
-    t.text "description"
+    t.string "icon"
     t.bigint "author_id", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
