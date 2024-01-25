@@ -74,5 +74,4 @@ gem 'rubocop', '>= 1.0', '< 2.0'
 
 gem 'devise'
 
-# Use the version you want or the latest available
 gem 'psych', '3.3.0'
