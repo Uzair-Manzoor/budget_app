@@ -7,6 +7,7 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
+  - [🚀 Presentation](#video-presentation)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -42,7 +43,11 @@ Ruby on Rails, Visual Studia Code, WSL
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://budget-app-186x.onrender.com)
+- [Live Demo Link]()
+
+## 🚀 Presentation <a name="video-presentation"></a>
+
+- [Presentation Link](https://www.loom.com/share/e06a206fb2d1466589eff6f915bede6d?sid=6ab2daed-7b7b-430b-b754-df37d89cc538)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
