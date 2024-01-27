@@ -1,6 +1,6 @@
 databases:
   - name: budget_app2
-    databaseName: postgres
+    databaseName: budget_app2
     user: budget_app2
     plan: free
 services:
