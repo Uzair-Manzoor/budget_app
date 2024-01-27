@@ -47,7 +47,7 @@ Ruby on Rails, Visual Studia Code, WSL
 
 ## 🚀 Presentation Video <a name="video-presentation"></a>
 
-- [Presentation Link](https://www.loom.com/share/e06a206fb2d1466589eff6f915bede6d?sid=6ab2daed-7b7b-430b-b754-df37d89cc538)
+- [Presentation Link](https://www.loom.com/share/520f408a96ec4e8b8c6cb0680a528c57)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
