@@ -7,7 +7,7 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
-  - [🚀 Video Presentation](#video-presentation)
+  - [🚀 Presentation](#video-presentation)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -45,7 +45,7 @@ Ruby on Rails, Visual Studia Code, WSL
 
 - [Live Demo Link](https://budget-app2-4hbs.onrender.com/)
 
-## 🚀 Presentation Video <a name="video-presentation"></a>
+## 🚀 Presentation <a name="video-presentation"></a>
 
 - [Presentation Link](https://www.loom.com/share/520f408a96ec4e8b8c6cb0680a528c57)
 
@@ -86,7 +86,7 @@ rspec
 
 - GitHub: [@Uzair Manzoor](https://github.com/Uzair-Manzoor)
 - Twitter: [@Uzair Manzoor](https://twitter.com/uzairkiyani5555)
-- LinkedIn: [UzairManzoor](https://www.linkedin.com/in/uzair-manzoor-b69996115/)
+- LinkedIn: [@UzairManzoor](https://www.linkedin.com/in/uzair-manzoor-b69996115/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
