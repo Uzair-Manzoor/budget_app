@@ -86,7 +86,7 @@ rspec
 
 - GitHub: [@Uzair Manzoor](https://github.com/Uzair-Manzoor)
 - Twitter: [@Uzair Manzoor](https://twitter.com/uzairkiyani5555)
-- LinkedIn: [UzairManzoor](https://www.linkedin.com/in/uzair-manzoor-b69996115/)
+- LinkedIn: [@UzairManzoor](https://www.linkedin.com/in/uzair-manzoor-b69996115/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
